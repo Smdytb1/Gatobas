@@ -1,0 +1,25 @@
+<body bgcolor="#0000000">
+<ol>
+<li><a href="http://audio.ngfiles.com/586000/586919_Lady-Dadongo.mp3"
+    onclick="showMusic(this);return false;"><font color="white">Lady Dadongo</a></font></li>
+
+
+
+
+</ol>
+
+
+
+<div align="left">
+<iframe style="overflow:hidden;" embed id="musicHolder" 
+    quality="high" menu ="false" width="170" height="16"
+    type="application/x-shockwave-flash"
+    pluginspage="http://www.macromedia.com/go/getflashplayer"></iframe>
+<script> function showMusic(whichmusic){
+
+  var source=whichmusic.getAttribute("href");
+  var music=document.getElementById("musicHolder");
+  var clone=music.cloneNode(true);
+  clone.setAttribute('src',source);
+  music.parentNode.replaceChild(clone,music)
+} </script>

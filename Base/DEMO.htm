@@ -1,0 +1,28 @@
+<h1><font color="red">DEMO</font></h1>
+<body bgcolor="#003979">
+<div align="center"><img src="http://www.mupload.nl/img/7v49ymtz8oh.com.1407973377.jpg" width="520" height="160">
+<a href='http://www.mupload.nl/index/?ref=g4ofi0g6l0x' border='0' target='_blank'></a>
+</center>
+<div align="right"><ol>
+<li><a href="http://external.kongregate-games.com/gamez/0021/4044/live/embeddable_214044.swf"
+    onclick="showGame(this);return false;"><font color="white">1Quest</a></font></li>
+<li><a href="http://chat.kongregate.com/gamez/0007/9299/live/Cursed_Treasure.swf"
+    onclick="showGame(this);return false;"><font color="white">Cursed Treasure</a></font></li>
+</center>
+</ol></div>
+<div align="center">
+<iframe embed id="gameHolder" src="http://pictat.com/i/2011/7/10/32479playscrnba.jpg"
+    quality="high" menu ="false" width="700" height="550"
+    type="application/x-shockwave-flash"
+    pluginspage="http://www.macromedia.com/go/getflashplayer"></iframe></center>
+<script> function showGame(whichgame){
+
+  var source=whichgame.getAttribute("href");
+  var game=document.getElementById("gameHolder");
+  var clone=game.cloneNode(true);
+  clone.setAttribute('src',source);
+  game.parentNode.replaceChild(clone,game)
+} </script>
+<div align="center">
+<a href="http://Codecademy.com">Learn to code with us!</a>
+</center>

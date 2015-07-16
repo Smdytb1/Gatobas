@@ -1,0 +1,77 @@
+<head><title>Ranks</title></head>
+	<body bgcolor="black" text="white">
+<div align="center"><h1>The Ranks</h1></div>
+
+<div align="center"><h3>/ Universal Ranks \</h3>
+<br>
+Event Character (Tier One – Tier ??)
+<ol>
+<li> OOC Name – IC Name (Tier)</li>
+<li> OOC Name – IC Name (Tier)</li>
+<li> OOC Name – IC Name (Tier)</li>
+<li> OOC Name – IC Name (Tier)</li>
+<li> OOC Name – IC Name (Tier)</li>
+</ol>
+Demon Hunter (Title Rank)<ol>
+<li> OOC Name – IC Name</li>
+<li> OOC Name – IC Name</li>
+<li> OOC Name – IC Name</li>
+</ol></div>
+<div align="center"><h3>/ Ranks of Mortals \</h3>
+
+Demi-Gods (Title Rank)<ol>
+<li> OOC Name – IC Name</li>
+<li> OOC Name – IC Name</li>
+</ol></div>
+<div align="center"><h3>/ Ranks of Hell \</h3>
+
+Lucifer<br>
+<br>
+Satan (Title Rank)<br>
+<br>
+Asmodeus<br>
+ OOC Name – IC Name
+<br></div>
+<div align="center"><h3>/ Ranks of Heaven \</h3>
+
+Uriel<br>
+OOC Name – IC Name
+<br>
+Gabriel (Title Rank)<br>
+OOC Name – IC Name
+<br>
+Michael<br>
+OOC Name – IC Name
+</div>
+<div align="center"><h3>The Boons</h3></div>
+
+Event Character (Tier One)<br>
+* Increase to Health and Magic of +2000, Makyuu is gained<br>
+
+Event Character (Tier Two)<br>
+* Increase to Health and Magic of +4000, Makyuu is gained, Weapon of Choice<br>
+
+Event Character (Tier Three)<br>
+* Increase to Health and Magic of +8000, Makyuu is gained, Weapon of Choice<br>
+
+Event Character (Tier ??)<br>
+* Increase to Health and Magic of +(1000-50000), Makyuu is gained, Weapon of Choice<br>
+
+Lucifer<br>
+* Increase to Health and Magic of +10,000, Makyuu and Curse are gained, Weapon of 
+Choice<br>
+
+Asmodeus<br>
+* Increase to Health and Magic of +2000, Makyuu and Curse are gained<br>
+
+Uriel<br>
+* Increase to Health and Magic of +10,000, Makyuu and Bless are gained, Weapon of 
+Choice<br>
+
+Michael<br>
+* Increase to Health and Magic of +2000, Makyuu and Bless are gained<br>
+<hr>
+
+Players may create custom ranks so long as they follow the guidelines of the Event character 
+ranks. The boosts must be approved before the player may apply for the rank, and custom ranks 
+are graded with more scrutiny

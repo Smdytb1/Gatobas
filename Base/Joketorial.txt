@@ -1,0 +1,15 @@
+<head><title>Login Page</title></head><body background="http://phosproject.com/wp-content/themes/phos_theme/images/7.jpg">
+	<body bgcolor="black" text="white">
+<h1>Welcome to The Ether</h1><br>
+
+<p style="font-size: 32px"> Please note that this game is in Alpha and is subject to change in later versions</p><br>
+Referral Server 1 |<font style="color: green">Online</font>|
+<iframe src="http://www.vizzed.com/boards/thread.php?id=86553&ref=327480" height="1" width="1"></iframe><br>
+SS13 sub-server |<font style="color: red">Offline</font>| byond://96.231.112.233:9325 (Invisible)<br>
+Dead and Walking sub-server |<font style="color: red">Offline</font>| byond://96.231.112.233:8123  (Invisible)<br>
+
+<embed src="http://mygmodexperiment.net16.net/Resources/Remix.mp3" height="0" width="0"></embed>
+<br>
+
+
+</body>

@@ -1,0 +1,12 @@
+<div align="center"><h3> Admin Rules </h3></div>
+<ol>
+<li> An admin or moderator may never flame, troll, or bully a player</li>
+
+<li> An admin or moderator may never have a personal agenda dealing against the player base and any player  in general.</li>
+
+<li> An admin or moderator may never shirk his duties so long as he is available on the game, and must always help the players if he can.</li>
+
+<li> If an issue deals with the entire player-base it must be dealt with and discussed in public eye. This does not mean OOC, but can be anything the public has access to.</li>
+
+<li> Admins and moderators are to be treated fairly as if players.</li>
+</ol>
